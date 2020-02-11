@@ -9,3 +9,6 @@ This project was made for "Data structures and algorithms" at Computer science &
 
 The project is an expansion of the base model provided by Facebook. 
 
+It is capable of receiving API data from the page's chat and responding accordingly based on a multitude of pre recorded commands situated inside a case.
+
+I took in account every type of usual questions any person may have, and I tried to complete any type of narrative by closing the dialogue loop and making it an finite automata.
