@@ -6,3 +6,6 @@ This SOFTWARE PRODUCT is provided by me, Valentin 'Truewarlock' Marius "as is" a
 Made in JavaScript Node.
 
 This project was made for "Data structures and algorithms" at Computer science & Engineering University(Year 2, Sem 1) as a mandatory project. 
+
+The project is an expansion of the base model provided by Facebook. 
+
